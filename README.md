@@ -1,5 +1,5 @@
 # Effort-Perception
-This repo contains all the files associated with the data analysis on acuity of effort perception. If you would like to talk to me about the data that I have used in this analysis, please comtact me at ppadman1@jhmi.edu. 
+This repo contains all the files associated with the data analysis on acuity of effort perception. If you would like to talk to me about the data that I have used in this analysis, please contact me at ppadman1@jhmi.edu. 
 The experiment contains 3 phases:In each of the phases, participants are asked to exert effort by gripping a handheld dynamometer.
 Data is collected at 2000 Hz. 
 Maximum voluntary contraction (MVC): Participants are asked to grip the dynamometer as hard as they can for 3 trials in a row (4s  each). 
